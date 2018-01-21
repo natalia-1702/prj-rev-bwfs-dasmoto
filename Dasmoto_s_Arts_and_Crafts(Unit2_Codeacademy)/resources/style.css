@@ -1,0 +1,40 @@
+/* Head*/
+.head {
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: 700;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+	background-image: url(./pattern.jpeg);
+	display: block;
+
+}
+/* Color heading*/
+.brushes h2 {
+	background-color: mediumspringgreen;
+}
+/* Color heading*/
+.frames h2 {
+	background-color: lightcoral;
+}
+/* Color heading*/
+.paint h2 {
+	background-color: skyblue;
+}
+/* Heading*/
+h2 {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+/* Blue bold price*/
+.brushes nobr.bold, .frames nobr.bold, .paint nobr.bold {
+	font-family: Helvetica;
+	font-weight: bold;
+	color: blue;
+}
+h3, p {
+	font-family: Helvetica;
+}
