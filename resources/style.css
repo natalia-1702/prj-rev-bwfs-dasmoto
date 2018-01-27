@@ -1,6 +1,5 @@
 /* Head*/
 .head {
-	font-family: Helvetica;
 	font-size: 100px;
 	font-weight: 700;
 	font-weight: bold;
@@ -24,17 +23,15 @@
 }
 /* Heading*/
 h2 {
-	font-family: Helvetica;
 	font-size: 32px;
 	font-weight: bold;
 	color: white;
 }
 /* Blue bold price*/
-.brushes nobr.bold, .frames nobr.bold, .paint nobr.bold {
-	font-family: Helvetica;
+.brushes strong.bold, .frames strong.bold, .paint strong.bold {
 	font-weight: bold;
 	color: blue;
 }
-h3, p {
+body {
 	font-family: Helvetica;
 }
